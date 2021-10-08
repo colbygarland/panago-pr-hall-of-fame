@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import Confetti from 'react-confetti';
 import { Container } from '../components/Container';
 import { Content } from '../components/Content';
 import { Heading } from '../components/Heading';
