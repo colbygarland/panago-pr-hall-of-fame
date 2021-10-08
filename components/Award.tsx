@@ -3,6 +3,7 @@ import { Container } from '../components/Container';
 import { Content } from '../components/Content';
 import { Heading } from '../components/Heading';
 import { SubHeading } from '../components/SubHeading';
+import { titleToSlug } from '../lib';
 
 export interface AwardProps {
   title: string;
@@ -21,7 +22,7 @@ export const Award = (props: AwardProps) => {
   }
 
   return (
-    <Content style={style}>
+    <Content style={style} id={titleToSlug(title)}>
       <Container>
         <Heading>{title}</Heading>
         <SubHeading>{subtitle}</SubHeading>
