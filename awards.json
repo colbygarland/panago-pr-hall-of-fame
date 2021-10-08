@@ -37,8 +37,7 @@
     {
       "title": "Highest File Count PR",
       "subtitle": "The PR with the highest number of files.",
-      "person": "Colby Garland",
-      "image": ""
+      "person": "Colby Garland"
     },
     {
       "title": "Lowest File Count PR",
@@ -57,7 +56,7 @@
     },
     {
       "title": "Most Approvals on a PR",
-      "subtitle": "The PR with the most number of approvals from the team..",
+      "subtitle": "The PR with the most number of approvals from the team.",
       "person": "Colby Garland"
     },
     {
