@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'NeuzeitGro';
+  src: url('../public/fonts/NeuzeitGro-Reg.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: 'NeuzeitGroBold';
+  src: url('../public/fonts/NeuzeitGro-Bol.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

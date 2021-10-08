@@ -1,0 +1,74 @@
+{
+  "nominees": [
+    {
+      "name": "Brent Perry",
+      "image": ""
+    },
+    {
+      "name": "Colby Garland",
+      "image": ""
+    },
+    {
+      "name": "Ken McDougall",
+      "image": ""
+    },
+    {
+      "name": "Kenneth Ruan",
+      "image": ""
+    },
+    {
+      "name": "Navpreet Matharu",
+      "image": ""
+    },
+    {
+      "name": "Tom Stachura",
+      "image": ""
+    },
+    {
+      "name": "Wayne Chen",
+      "image": ""
+    },
+    {
+      "name": "Yahui Zhan",
+      "image": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Highest File Count PR",
+      "subtitle": "The PR with the highest number of files.",
+      "person": "Colby Garland",
+      "image": ""
+    },
+    {
+      "title": "Lowest File Count PR",
+      "subtitle": "The PR with the least number of files.",
+      "person": "Colby Garland"
+    },
+    {
+      "title": "Most Comments on a PR",
+      "subtitle": "The PR with the highest number of comments on it.",
+      "person": "Colby Garland"
+    },
+    {
+      "title": "Longest Outstanding PR",
+      "subtitle": "The oldest PR outstanding.",
+      "person": "Colby Garland"
+    },
+    {
+      "title": "Most Approvals on a PR",
+      "subtitle": "The PR with the most number of approvals from the team..",
+      "person": "Colby Garland"
+    },
+    {
+      "title": "Largest PR",
+      "subtitle": "The PR with the largest amount of code changes.",
+      "person": "Colby Garland"
+    },
+    {
+      "title": "Smallest PR",
+      "subtitle": "The PR with the least amount of code changes.",
+      "person": "Colby Garland"
+    }
+  ]
+}
