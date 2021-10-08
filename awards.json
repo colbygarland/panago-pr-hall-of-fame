@@ -68,6 +68,11 @@
       "title": "Smallest PR",
       "subtitle": "The PR with the least amount of code changes.",
       "person": "Colby Garland"
+    },
+    {
+      "title": "Fanciest PR",
+      "subtitle": "The PR with the most bells and whistles - nice description, fancy photos/videos, etc.",
+      "person": "Colby Garland"
     }
   ]
 }
