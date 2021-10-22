@@ -14,7 +14,7 @@ export default function Home() {
 
       <Content style="bg-primary">
         <Container>
-          <h1 className="text-tertiary font-sansBold text-8xl leading-relaxed">
+          <h1 className="text-tertiary font-sansBold text-5xl lg:text-8xl leading-relaxed">
             Pull Request
             <br /> Hall of Fame.
           </h1>
@@ -36,9 +36,9 @@ export default function Home() {
 
       <Content>
         <Container>
-          <div className="flex justify-between items-center">
+          <div className="lg:flex justify-between items-center">
             <Heading>Category is...</Heading>
-            <img className="w-64 object-cover" src="pizza.png" alt="" />
+            <img className="w-32 lg:w-64 object-cover" src="pizza.png" alt="" />
           </div>
         </Container>
       </Content>
