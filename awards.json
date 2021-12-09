@@ -1,4 +1,12 @@
 {
+  "copy": {
+    "title": "Panago Dev Awards",
+    "subtitle": "The good, the bad, and the ugly.",
+    "meetNominees": "Meet our Nominees.",
+    "categoryIs": "Category is...",
+    "awardWinner": "Award goes to:",
+    "revealButtonText": "Reveal"
+  },
   "nominees": [
     {
       "name": "Brent Perry",

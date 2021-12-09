@@ -6,8 +6,10 @@ import { Header } from '../components/Header';
 import { Heading } from '../components/Heading';
 import { Nominees } from '../components/Nominees';
 import { SubHeading } from '../components/SubHeading';
+import { copy } from '../lib';
 
 export default function Home() {
+  const currentYear = new Date().getFullYear();
   return (
     <>
       <Header />
@@ -15,16 +17,16 @@ export default function Home() {
       <Content style="bg-primary">
         <Container>
           <h1 className="text-tertiary font-sansBold text-5xl lg:text-8xl leading-relaxed">
-            Pull Request
-            <br /> Hall of Fame.
+            {copy.title}
+            <br /> {currentYear}.
           </h1>
-          <SubHeading style="text-tertiary">The good, the bad, and the ugly.</SubHeading>
+          <SubHeading style="text-tertiary">{copy.subtitle}</SubHeading>
         </Container>
       </Content>
 
       <Content>
         <Container>
-          <Heading>Meet the Nominees.</Heading>
+          <Heading>{copy.meetNominees}</Heading>
         </Container>
       </Content>
 
@@ -37,7 +39,7 @@ export default function Home() {
       <Content>
         <Container>
           <div className="lg:flex justify-between items-center">
-            <Heading>Category is...</Heading>
+            <Heading>{copy.categoryIs}</Heading>
             <img className="w-32 lg:w-64 object-cover" src="pizza.png" alt="" />
           </div>
         </Container>
