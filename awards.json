@@ -43,6 +43,11 @@
   ],
   "awards": [
     {
+      "title": "Montreal International Poetry Prize",
+      "subtitle": "This award goes to the author that wrote the best JIRA ticket comment.",
+      "person": "Ken McDougall"
+    },
+    {
       "title": "Highest File Count PR",
       "subtitle": "The PR with the highest number of files.",
       "person": "Yahui Zhan"
