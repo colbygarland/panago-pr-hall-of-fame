@@ -48,6 +48,11 @@
       "person": "Ken McDougall"
     },
     {
+      "title": "Office Space",
+      "subtitle": "This award goes to the person who wants to destroy printers with a bat the most.",
+      "person": "Navpreet Matharu"
+    },
+    {
       "title": "Highest File Count PR",
       "subtitle": "The PR with the highest number of files.",
       "person": "Yahui Zhan"
@@ -57,6 +62,7 @@
       "subtitle": "The PR with the least number of files.",
       "person": "Colby Garland"
     },
+
     {
       "title": "Most Comments on a PR",
       "subtitle": "The PR with the highest number of comments on it.",
