@@ -53,45 +53,74 @@
       "person": "Navpreet Matharu"
     },
     {
-      "title": "Highest File Count PR",
-      "subtitle": "The PR with the highest number of files.",
+      "title": "The Jedi Award",
+      "subtitle": "This award goes to the Jedi who mentored the most Padawans.",
+      "person": "Tom Stachura"
+    },
+    {
+      "title": "Peace in the Chaos",
+      "subtitle": "This award goes to the person who is the production-issue killer; raiser of children and harbinger of peace.",
+      "person": "Wayne Chen"
+    },
+    {
+      "title": "Mission Impossible",
+      "subtitle": "This award goes to the person who beat raging deadlines in the face of newborns, COVID, and complete mayhem.",
+      "person": "Colby Garland"
+    },
+    {
+      "title": "Troublesome Test Award",
+      "subtitle": "This award goes to the person who slayed Tom's Java test.",
       "person": "Yahui Zhan"
     },
     {
-      "title": "Lowest File Count PR",
-      "subtitle": "The PR with the least number of files.",
-      "person": "Colby Garland"
-    },
-
-    {
-      "title": "Most Comments on a PR",
-      "subtitle": "The PR with the highest number of comments on it.",
-      "person": "Colby Garland"
+      "title": "Makes my Day Award",
+      "subtitle": "We can't imagine a dev team without this person.",
+      "person": "Ken McDougall"
     },
     {
-      "title": "Longest Outstanding PR",
-      "subtitle": "The oldest PR outstanding.",
+      "title": "Always in a Meeting Award",
+      "subtitle": "This award goes to the person who spends all their time in meetings.",
+      "person": "Brent Perry"
+    },
+    {
+      "title": "Office Parent Award",
+      "subtitle": "This award goes to the person who ",
+      "person": "Wayne Chen"
+    },
+    {
+      "title": "Dashing Debut",
+      "subtitle": "This award goes to the person who had a dazzling debut at Panago.",
+      "person": "Navpreet Matharu"
+    },
+    {
+      "title": "Hidden Talent Award",
+      "subtitle": "This award goes to the person with the surprise hidden talent.",
+      "person": "Yahui Zhan"
+    },
+    {
+      "title": "Walking Encyclopedia",
+      "subtitle": "This award goes to the person who knows it all.",
+      "person": "Tom Stachura"
+    },
+    {
+      "title": "The Memer",
+      "subtitle": "This award goes to the person who posts the most memes.",
       "person": "Colby Garland"
     },
     {
-      "title": "Most Approvals on a PR",
-      "subtitle": "The PR with the most number of approvals from the team.",
-      "person": "Colby Garland"
+      "title": "Bad Dad Jokes Award",
+      "subtitle": "This award goes to whoever tells the corniest 'jokes'.",
+      "person": "Brent Perry"
     },
     {
-      "title": "Largest PR",
-      "subtitle": "The PR with the largest amount of code changes.",
-      "person": "Colby Garland"
+      "title": "National Geographic Photo Award",
+      "subtitle": "This award goes to the person who posted the most photos while aboard.",
+      "person": "Kenneth Ruan"
     },
     {
-      "title": "Smallest PR",
-      "subtitle": "The PR with the least amount of code changes.",
-      "person": "Colby Garland"
-    },
-    {
-      "title": "Fanciest PR",
-      "subtitle": "The PR with the most bells and whistles - nice description, fancy photos/videos, etc.",
-      "person": "Colby Garland"
+      "title": "Globe Trotter Award",
+      "subtitle": "This award goes to the person who has been to the random country we decide!",
+      "person": "Let's find out!"
     }
   ]
 }
