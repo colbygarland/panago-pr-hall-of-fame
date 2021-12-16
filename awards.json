@@ -68,6 +68,11 @@
       "person": "Colby Garland"
     },
     {
+      "title": "National Geographic Photo Award",
+      "subtitle": "This award goes to the person who posted the most photos while aboard.",
+      "person": "Kenneth Ruan"
+    },
+    {
       "title": "Troublesome Test Award",
       "subtitle": "This award goes to the person who slayed Tom's Java test.",
       "person": "Yahui Zhan"
@@ -84,7 +89,7 @@
     },
     {
       "title": "Office Parent Award",
-      "subtitle": "This award goes to the person who ",
+      "subtitle": "This award goes to the person who (Brent I am not sure what to write here)",
       "person": "Wayne Chen"
     },
     {
@@ -111,11 +116,6 @@
       "title": "Bad Dad Jokes Award",
       "subtitle": "This award goes to whoever tells the corniest 'jokes'.",
       "person": "Brent Perry"
-    },
-    {
-      "title": "National Geographic Photo Award",
-      "subtitle": "This award goes to the person who posted the most photos while aboard.",
-      "person": "Kenneth Ruan"
     },
     {
       "title": "Globe Trotter Award",
